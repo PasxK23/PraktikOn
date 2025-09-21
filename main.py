@@ -3,6 +3,8 @@ import sys
 from PyQt6.QtGui import *
 from PyQt6.QtCore import *
 from PyQt6.QtWidgets import *
+from PyQt6.QtWidgets import QApplication, QWidget
+from PyQt6.QtGui import QFont
 import sqlite3
 from sqlite3 import Error
 from datetime import datetime
